@@ -10,3 +10,5 @@
  In the const endpoints is where you will specify your enpoints.
 
  The file testapi is where you will declare your api url, also the of your files to be saved.
+
+ The Json file will be created at the smae folder as the project. If new information is fetched will be replaced.
